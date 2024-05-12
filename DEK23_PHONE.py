@@ -5,9 +5,9 @@ from twilio.base.exceptions import TwilioRestException
 # Set environment variables for your Account Sid and Auth Token!
 # These can be found at twilio.com/console
 # Your Account SID from twilio.com/console
-account_sid = "f006b4543dc87d5559741a0e7a8860fe" # COLOCA ENTRE LAS COMILLAS TU ACCOUNT SID DE TWILIO
+account_sid = "SKb4cd979955b264c6f29a98c645a57bbf" # COLOCA ENTRE LAS COMILLAS TU ACCOUNT SID DE TWILIO
 # Your Auth Token from twilio.com/console
-auth_token  = "82057916cbc8ec20209ebe6cb825b3e8" # COLOCA ENTRE LAS COMILLAS TU AUTH TOKEN DE TWILIO
+auth_token  = "ibz61IgxmX1G6xwFnRjg8rmns7DRNGFd" # COLOCA ENTRE LAS COMILLAS TU AUTH TOKEN DE TWILIO
 
 client = Client(account_sid, auth_token)
 
